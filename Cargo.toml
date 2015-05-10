@@ -1,0 +1,7 @@
+[package]
+name = "memc"
+version = "0.1.0"
+authors = ["Brian L. Troutwine <brian@troutwine.us>"]
+
+[dependencies]
+mio = "0.3.4"
